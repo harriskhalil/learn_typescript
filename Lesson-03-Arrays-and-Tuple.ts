@@ -24,7 +24,7 @@ const StringOrNumber :(string | number)[] =[1,'harris',2,'Amer'];
 
 /* Now i will show you Tuple
     Tuples are actually an array but the only difference is we have to define how many number of data we want in our array
-    
+
     lets see first an example
  */
 
